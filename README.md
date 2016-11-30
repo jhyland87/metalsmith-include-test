@@ -1,0 +1,1 @@
+This is just a temporary repository to reproduce an issue I am having using metalsmith-include and metalsmith-layouts

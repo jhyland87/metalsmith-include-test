@@ -1,0 +1,24 @@
+{
+  "name": "metalsmith-include-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhyland87/metalsmith-include-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhyland87/metalsmith-include-test/issues"
+  },
+  "homepage": "https://github.com/jhyland87/metalsmith-include-test#readme",
+  "dependencies": {
+    "get-contrast": "^2.0.0",
+    "metalsmith-markdownit": "^0.4.0",
+    "moment": "^2.17.0"
+  }
+}
