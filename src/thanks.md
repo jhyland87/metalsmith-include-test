@@ -1,6 +1,6 @@
 ---
 layout: thanks.pug
-partial: false
+partial: true
 ---
 
 h3 Thanks to..

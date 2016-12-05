@@ -64,7 +64,7 @@ const ms = Metalsmith(__dirname)
   .use(include({
     engine:'pug',
     inPlace: true,
-    deletePartials: false
+    deletePartials: true
   }))
   .use(tidy({
     pattern: '**/*html',
